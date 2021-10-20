@@ -1,1 +1,2 @@
-Cretae Dice game (+cheating dice)
+Dice game (+cheating dice). Any game using dices including cheat dices (dices may have more than 6 sides)
+The application should implement simulation algorithm for discrete RV given by distribution.
