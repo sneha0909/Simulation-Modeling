@@ -1,0 +1,10 @@
+C:\Users\msi-pc\source\repos\Lab18\Lab18\bin\Debug\Lab18.exe.config
+C:\Users\msi-pc\source\repos\Lab18\Lab18\bin\Debug\Lab18.exe
+C:\Users\msi-pc\source\repos\Lab18\Lab18\bin\Debug\Lab18.pdb
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.Form1.resources
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.exe
+C:\Users\msi-pc\source\repos\Lab18\Lab18\obj\Debug\Lab18.pdb
