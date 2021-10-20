@@ -1,1 +1,4 @@
-Statistics processing of discrete random variable simulation 
+Statistics processing of discrete random variable simulation.
+The application should implement algorithm for series of N simulations discrete RV with given distribution, evaluation of empiric probabilities,
+empiric mean and variance, their errors, and performing chi-square test for various values of N (N = 10, 100, 1 000, 10 000). Please, make a
+conclusion.
