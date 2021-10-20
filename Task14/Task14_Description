@@ -1,0 +1,2 @@
+Make implementations of three normal random variable generators, draw histograms, compare the speed of the algorithms and the
+accuracy of the simulation results with the sample size N=1000.
