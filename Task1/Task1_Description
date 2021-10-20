@@ -1,0 +1,21 @@
+You are given a field of 16 cells (4 by 4). Each cell is a place to grow vegetables. First all cells are empty (white).
+Once you click on a cell, it becomes black (planted, growing). Then it grows by itself. Once you click it once again, you harvest the vegetables, and the cell becomes empty.
+
+Color description:
+White - empty
+Black - growing, just planted
+Green - planting shoots
+Yellow - immature
+Red - mature
+Brown - overgrow
+
+Based on the example (we did during the class) you have to add two features to the model:
+
+1. Add economics
+-2 to plant seeds
++3 for harvesting immature vegetables (yellow)
++5 for harvesting mature vegetables (red)
+-1 to harvest overripe vegetables (brown)
+
+2. Add speed control
+3-4 buttons to select different speed
