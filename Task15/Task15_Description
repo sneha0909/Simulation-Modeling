@@ -1,0 +1,15 @@
+Weather simulation. 
+Simulate weather day by day. Let state 1 means
+clear, state 2 means cloudy, and state 3 means overcast. You may use
+the following transition rate matrix (time unit = 1 day):
+
+-0.4  0.3  0.1
+0.4  -0.8  0.4
+0.1   0.4 -0.5
+
+
+Take into account that time instants of state changes are real, so, the change can appear in the middle of a day or even several times during
+a day (you should tune your timer for short time interval, e.g., 1 hour).
+1. Perform simulation in «real time» using visualization.
+2. Perform simulations and statistical processing of their results.
+Compare empiric distribution with theoretical one.
