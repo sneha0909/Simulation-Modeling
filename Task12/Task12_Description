@@ -1,4 +1,2 @@
-Statistics processing of simulation of discrete random variable with infinite number of values.
-The application should implement the algorithm for series of experiments of simulation of discrete RV with infinite number of values (geometric,
-negative binomial, Poisson), evaluation of empiric probabilities, empiric mean and variance, their errors, and performing chi-square test for various
-values of N (N = 10, 100, 1 000, 10 000). Also, please, make a conclusion.
+“Football championship” (or another sport competition)
+Using Poisson distribution, simulate matches results, build tables of the tournament, determine the champion at the end of the competition.
