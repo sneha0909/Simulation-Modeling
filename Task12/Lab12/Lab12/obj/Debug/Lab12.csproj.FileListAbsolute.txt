@@ -1,0 +1,10 @@
+C:\Users\msi-pc\source\repos\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\msi-pc\source\repos\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\msi-pc\source\repos\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\msi-pc\source\repos\Lab12\Lab12\obj\Debug\Lab12.pdb
