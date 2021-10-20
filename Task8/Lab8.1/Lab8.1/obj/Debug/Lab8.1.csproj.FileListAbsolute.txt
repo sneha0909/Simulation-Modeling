@@ -1,0 +1,12 @@
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe.config
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\bin\Debug\Lab8.1.exe
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\bin\Debug\Lab8.1.pdb
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csprojAssemblyReference.cache
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8._1.Form1.resources
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8._1.Properties.Resources.resources
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.GenerateResource.cache
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8.1.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8.1.exe
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8.1.pdb
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8._1.Form2.resources
+C:\Users\msi-pc\source\repos\Lab8.1\Lab8.1\obj\Debug\Lab8._1.Form3.resources
