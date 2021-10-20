@@ -1,0 +1,3 @@
+Simulate two stationary Poisson point processes with different intensities λ1 and λ2. Capture events of both processes at
+once. Such process is also called as an aggregate point process. Perform statistical data processing for the aggregate process.
+Check does this process match the stationary Poisson point process with intensity (λ1 + λ2).
