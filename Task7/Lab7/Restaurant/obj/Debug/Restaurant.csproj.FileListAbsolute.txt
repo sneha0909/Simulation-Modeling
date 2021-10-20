@@ -1,0 +1,10 @@
+C:\Users\Chikondi Luka\source\repos\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Chikondi Luka\source\repos\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Chikondi Luka\source\repos\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Chikondi Luka\source\repos\Restaurant\obj\Debug\Restaurant.Restaurant.resources
